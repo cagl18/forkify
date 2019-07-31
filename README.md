@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * [Ionicons](https://ionicons.com) - Icons used
-* [Google Fontsl](http://google.com/fonts) - Fonts used
+* [Google Fonts](http://google.com/fonts) - Fonts used
